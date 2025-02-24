@@ -8,7 +8,7 @@ library(semTools)
 library(cSEM)
 library(stringr)
 
-source("2024_01_10_gradient_analytically_of_htmt.R")
+source("Rscripts/2024_01_10_gradient_analytically_of_htmt.R")
 
 model_dgp <- '
               #  latent variables
